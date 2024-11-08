@@ -6,10 +6,10 @@
             <usage name="Village"/>
         </user>
         <user name="TownVillageOfficeSchool">
-            <usage name="Town"/>
-            <usage name="Village"/>
             <usage name="Office"/>
             <usage name="School"/>
+            <usage name="Town"/>
+            <usage name="Village"/>
         </user>
     </usageflags>
     <valueflags>
