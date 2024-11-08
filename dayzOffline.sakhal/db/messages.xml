@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>240</deadline>
+        <shutdown>1</shutdown>
+        <text>[ALERT] Server Restarting in #tmin minutes</text>
+    </message>
+</messages>

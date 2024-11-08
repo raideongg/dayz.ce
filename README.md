@@ -1,2 +1,1 @@
-# dayz.ce
-DayZ Central Economy Files
+# DayZ Central Economy Files
